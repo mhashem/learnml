@@ -1,7 +1,10 @@
 # Machine Learning Resources
 
 ## 1. Courses
-1. [](http://cs231n.github.io/)
+1. [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
+2. [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+3. [edx Microsoft Professional Program in Artificial Intelligence](https://www.edx.org/microsoft-professional-program-artificial-intelligence)
+4. [Datacamp Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
 
 
 ## 2. Useful Websites

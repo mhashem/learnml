@@ -14,3 +14,6 @@
   4. [The Matrix Calculus You Need For Deep Learning]()
   5. [Skymind A.I. Wiki](https://skymind.ai/wiki/)
   6. ...
+  
+## 3. Books
+  1. [http://neuralnetworksanddeeplearning.com/index.html](http://neuralnetworksanddeeplearning.com/index.html)

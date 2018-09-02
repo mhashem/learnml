@@ -13,6 +13,7 @@
 
 ### Math
 1. [A Programmer’s Intuition for Matrix Multiplication](https://betterexplained.com/articles/matrix-multiplication/)
+2. [The Matrix Calculus You Need For Deep Learning](http://explained.ai/matrix-calculus/index.html)
 
 
   

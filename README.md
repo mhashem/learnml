@@ -7,6 +7,7 @@
 4. [Datacamp Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
 5. [Khan Academy Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
 6. [IBM Cognitive Class AI: Deep Learning](https://cognitiveclass.ai/learn/deep-learning/)
+7. [Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
 
 ## 2. Useful Websites

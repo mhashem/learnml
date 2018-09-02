@@ -5,6 +5,7 @@
 2. [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 3. [edx Microsoft Professional Program in Artificial Intelligence](https://www.edx.org/microsoft-professional-program-artificial-intelligence)
 4. [Datacamp Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
+5. [Khan Academy Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
 
 
 ## 2. Useful Websites

@@ -6,6 +6,7 @@
 3. [edx Microsoft Professional Program in Artificial Intelligence](https://www.edx.org/microsoft-professional-program-artificial-intelligence)
 4. [Datacamp Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
 5. [Khan Academy Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
+6. [IBM Cognitive Class AI: Deep Learning](https://cognitiveclass.ai/learn/deep-learning/)
 
 
 ## 2. Useful Websites

@@ -10,6 +10,8 @@
 7. [Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 8. [edx Probability - The Science of Uncertainty and Data by MIT](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)
 9. [edx Deep Learning with Python and PyTorch by IBM](https://www.edx.org/course/deep-learning-with-python-and-pytorch)
+10. [edx Introduction to Python for Data Science 1](https://www.edx.org/course/introduction-to-python-for-data-science-1)
+11. [Deep Learning by IBM](https://www.edx.org/professional-certificate/ibm-deep-learning)
 
 
 ## 2. Useful Websites
@@ -25,3 +27,4 @@
   
 ## 4. Good to know about
   1. [Statistics and Data Science](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
+  2. [Deep Learning by IBM](https://www.edx.org/professional-certificate/ibm-deep-learning)

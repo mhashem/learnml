@@ -8,6 +8,8 @@
 5. [Khan Academy Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
 6. [IBM Cognitive Class AI: Deep Learning](https://cognitiveclass.ai/learn/deep-learning/)
 7. [Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+8. [edx Probability - The Science of Uncertainty and Data by MIT](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)
+9. [edx Deep Learning with Python and PyTorch by IBM](https://www.edx.org/course/deep-learning-with-python-and-pytorch)
 
 
 ## 2. Useful Websites
@@ -20,3 +22,6 @@
   
 ## 3. Books
   1. [http://neuralnetworksanddeeplearning.com/index.html](http://neuralnetworksanddeeplearning.com/index.html)
+  
+## 4. Good to know about
+  1. [Statistics and Data Science](https://www.edx.org/micromasters/mitx-statistics-and-data-science)

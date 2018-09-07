@@ -24,6 +24,7 @@
   
 ## 3. Books
   1. [http://neuralnetworksanddeeplearning.com/index.html](http://neuralnetworksanddeeplearning.com/index.html)
+  2. <https://www.deeplearningbook.org/>
   
 ## 4. Good to know about
   1. [Statistics and Data Science](https://www.edx.org/micromasters/mitx-statistics-and-data-science)

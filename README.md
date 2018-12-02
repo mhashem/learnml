@@ -13,6 +13,7 @@
 10. [edx Introduction to Python for Data Science 1](https://www.edx.org/course/introduction-to-python-for-data-science-1)
 11. [Deep Learning by IBM](https://www.edx.org/professional-certificate/ibm-deep-learning)
 12. [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
+13. [fast.ai](https://www.fast.ai/)
 
 
 ## 2. Useful Websites
